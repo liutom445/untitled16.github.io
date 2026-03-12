@@ -1,6 +1,6 @@
 ---
-title: "Search"
+title: "Research"
 layout: "search"
-summary: "Search"
-placeholder: "Search the blog..."
+summary: "Research"
+placeholder: "Search research notes..."
 ---

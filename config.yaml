@@ -57,7 +57,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: archives
-      name: Archive
+      name: Coursework and Technical Notes
       url: /archives/
       weight: 30
     - identifier: about
@@ -65,6 +65,6 @@ menu:
       url: /about/
       weight: 90
     - identifier: search
-      name: Search
+      name: Research
       url: /search/
       weight: 100

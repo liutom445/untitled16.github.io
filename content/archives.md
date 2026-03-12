@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Coursework and Technical Notes"
 layout: "archives"
 url: "/archives/"
-summary: archive
+summary: "Coursework and technical notes"
 ---
